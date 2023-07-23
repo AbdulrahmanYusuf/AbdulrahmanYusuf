@@ -1,10 +1,10 @@
-Hi 👋 My name is Abdulrahman Yusuf
-==================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman Yusuf
+=========================================================================================================================================
 
-Big Data Engineer
------------------
+I am a PhD Student
+------------------
 
-I have been in the teaching and learning field for more than 10 years, with special attention to database technology. I am now learning data science, machine learning, and deep learning
+I have been in the teaching and learning field for more than 10 years, with special attention to database technology. I am now learning data science, machine learning, and deep learning wanted to become Big Data Engineer
 
 *   🌍  I'm based in Gashua-Damaturu of Yobe State, Nigeria
 *   ✉️  You can contact me at [audura33@yahoo.com or audura2013@gmail.com](mailto:audura33@yahoo.com or audura2013@gmail.com)
@@ -37,4 +37,6 @@ I have been in the teaching and learning field for more than 10 years, with spec
                           
                       <a href="http://www.medium.com/AndulrahmanYusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/AndulrahmanYusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.twitter.com/AndulrahmanYusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/AndulrahmanYusuf"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=AndulrahmanYusuf&stroke=ffffff&background=581c87&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
