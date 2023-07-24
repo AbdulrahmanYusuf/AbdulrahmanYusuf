@@ -41,7 +41,7 @@ I have been in the teaching and learning field for more than 10 years, with part
                           
                       <a href="https://www.linkedin.com/in/abdurrahman-yusuf-ast-lecturer-yobe-state-university-nig-0a717076" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.medium.com/AndulrahmanYusf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                      <a href="http://www.medium.com/@audura2013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/a.yusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/AbdulrahmanYusuf"><img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanYusuf&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&show_icons=true" alt="AbdulrahmanYusuf's GitHub stats" /></a><a
