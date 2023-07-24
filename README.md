@@ -37,6 +37,6 @@ I have been in the teaching and learning field for more than 10 years, with spec
                           
                       <a href="http://www.medium.com/AndulrahmanYusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/AndulrahmanYusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      <a href="https://www.twitter.com/a.yusuf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/AndulrahmanYusuf"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=AndulrahmanYusuf&stroke=ffffff&background=581c87&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
