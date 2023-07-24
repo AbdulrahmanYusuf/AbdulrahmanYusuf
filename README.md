@@ -12,7 +12,7 @@ I have been in the teaching and learning field for more than 10 years, with part
 *   🧠  I'm learning machine leaning, deep leaning and data analytics
 *   🤝  I'm open to collaborating on interesting in big data technology and machine leaning projects
 *   ⚡  I would like to improve through collaborative learning
-*
+
 <a href="https://www.github.com/AbdulrahmanYusuf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AbdulrahmanYusuf?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a><a href="https://www.twitter.com/a.yusuf" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/twitter/follow/a.yusuf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=581c87"
                 /></a>
@@ -50,6 +50,6 @@ src="https://img.shields.io/github/followers/AbdulrahmanYusuf?logo=github&style=
 
 <div width="100%" align="center"><a href="https://github.com/AbdulrahmanYusuf/ArewaDS-Machine-Learning-Assignments" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanYusuf&repo=ArewaDS-Machine-Learning-Assignments&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/AbdulrahmanYusuf/30-Days-of-Python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanYusuf&repo=30-Days-of-Python&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div>
